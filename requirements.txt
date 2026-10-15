@@ -1,0 +1,7 @@
+cognee==1.5.4
+fastembed
+stripe
+google-genai
+fastapi
+uvicorn[standard]
+python-dotenv

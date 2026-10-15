@@ -1,0 +1,23 @@
+{
+  "V-ACME": {
+    "name": "Acme Cloud Ltd",
+    "email_domain": "acmecloud.co.uk",
+    "payout_account": "GB29 ACME 6016 1331 4410",
+    "status": "active",
+    "contract": {"id": "C-2026-014", "description": "Managed cloud hosting", "per_invoice_cap_gbp": 1500}
+  },
+  "V-NIMBUS": {
+    "name": "Nimbus Office Supplies",
+    "email_domain": "nimbusoffice.com",
+    "payout_account": "GB82 NIMB 4000 5112 7788",
+    "status": "active",
+    "contract": {"id": "PO-7781", "description": "Office supplies, monthly", "per_invoice_cap_gbp": 800}
+  },
+  "V-BRIGHT": {
+    "name": "Brightline Design Studio",
+    "email_domain": "brightline.design",
+    "payout_account": "GB11 BRLN 2020 3344 0912",
+    "status": "active",
+    "contract": {"id": "C-2026-031", "description": "Brand and product design retainer", "per_invoice_cap_gbp": 5000}
+  }
+}

@@ -1,0 +1,8 @@
+.env
+.venv/
+.cognee/
+__pycache__/
+data/ledger.json
+data/audit.json
+static/graph.html
+data/uploads.json
